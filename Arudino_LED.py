@@ -1,7 +1,7 @@
-#
-# Code to blink an LED using Python
-# Webiste: www.circuitdigest.com
-#
+######################################
+# Code to blink an LED using Python  #
+# Webiste: www.circuitdigest.com     #
+######################################
 int data;
 void setup() 
 { 
